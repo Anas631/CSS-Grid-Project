@@ -97,4 +97,7 @@ body{
     .box:hover{
         background-position: bottom;
     }
+     .subheading{
+        font-size: large;
+    }
 }
